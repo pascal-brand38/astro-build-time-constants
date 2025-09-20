@@ -1,0 +1,31 @@
+{
+  "name": "astro-build-time-constants",
+  "version": "0.0.1",
+  "description": "Astro integration to define build-time constants: dates...",
+  "keywords": [
+    "astro",
+    "astro-integration",
+    "build-time",
+    "constant"
+  ],
+  "homepage": "https://github.com/pascal-brand38/astro-build-time-constants#readme",
+  "bugs": {
+    "url": "https://github.com/pascal-brand38/astro-build-time-constants/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascal-brand38/astro-build-time-constants.git"
+  },
+  "license": "MIT",
+  "author": "Pascal Brand",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "astro": "^5.13.9",
+    "typescript": "^5.9.2"
+  }
+}
