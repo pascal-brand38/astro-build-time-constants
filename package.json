@@ -1,12 +1,12 @@
 {
   "name": "astro-build-time-constants",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Astro integration to define build-time constants: dates...",
   "keywords": [
     "astro",
     "astro-integration",
     "build-time",
-    "constant"
+    "constants"
   ],
   "homepage": "https://github.com/pascal-brand38/astro-build-time-constants#readme",
   "bugs": {
