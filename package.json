@@ -1,7 +1,7 @@
 {
   "name": "astro-build-time-constants",
-  "version": "0.0.2",
-  "description": "Astro integration to define build-time constants: dates...",
+  "version": "1.0.0",
+  "description": "Astro integration to define build-time constants: dates, custom properties,...",
   "keywords": [
     "astro",
     "astro-integration",
